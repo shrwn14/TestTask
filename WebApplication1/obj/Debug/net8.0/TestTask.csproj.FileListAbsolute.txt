@@ -1,0 +1,93 @@
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\WebApplication1\obj\Debug\net8.0\TestTask.csproj.AssemblyReference.cache
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\WebApplication1\obj\Debug\net8.0\TestTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\WebApplication1\obj\Debug\net8.0\TestTask.AssemblyInfoInputs.cache
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\WebApplication1\obj\Debug\net8.0\TestTask.AssemblyInfo.cs
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\WebApplication1\obj\Debug\net8.0\TestTask.csproj.CoreCompileInputs.cache
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\WebApplication1\obj\Debug\net8.0\TestTask.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\WebApplication1\obj\Debug\net8.0\TestTask.RazorAssemblyInfo.cache
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\WebApplication1\obj\Debug\net8.0\TestTask.RazorAssemblyInfo.cs
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\WebApplication1\bin\Debug\net8.0\appsettings.json
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\WebApplication1\bin\Debug\net8.0\TestTask.staticwebassets.runtime.json
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\WebApplication1\bin\Debug\net8.0\TestTask.exe
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\WebApplication1\bin\Debug\net8.0\TestTask.deps.json
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\WebApplication1\bin\Debug\net8.0\TestTask.runtimeconfig.json
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\WebApplication1\bin\Debug\net8.0\TestTask.dll
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\WebApplication1\bin\Debug\net8.0\TestTask.pdb
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\WebApplication1\bin\Debug\net8.0\EPPlus.dll
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\WebApplication1\bin\Debug\net8.0\EPPlus.Interfaces.dll
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\WebApplication1\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Features.dll
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\WebApplication1\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\WebApplication1\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\WebApplication1\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\WebApplication1\bin\Debug\net8.0\TestTask.Application.Contracts.dll
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\WebApplication1\bin\Debug\net8.0\TestTask.Application.dll
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\WebApplication1\bin\Debug\net8.0\TestTask.Application.Contracts.pdb
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\WebApplication1\bin\Debug\net8.0\TestTask.Application.pdb
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\WebApplication1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.TestTask.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.build.TestTask.props
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TestTask.props
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TestTask.props
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\WebApplication1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\WebApplication1\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\WebApplication1\obj\Debug\net8.0\scopedcss\bundle\TestTask.styles.css
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\WebApplication1\obj\Debug\net8.0\scopedcss\projectbundle\TestTask.bundle.scp.css
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\WebApplication1\obj\Debug\net8.0\TestTask.csproj.Up2Date
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\WebApplication1\obj\Debug\net8.0\TestTask.dll
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\WebApplication1\obj\Debug\net8.0\refint\TestTask.dll
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\WebApplication1\obj\Debug\net8.0\TestTask.pdb
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\WebApplication1\obj\Debug\net8.0\TestTask.genruntimeconfig.cache
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\WebApplication1\obj\Debug\net8.0\ref\TestTask.dll
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\WebApplication1\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\WebApplication1\bin\Debug\net8.0\appsettings.json
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\WebApplication1\bin\Debug\net8.0\TestTask.staticwebassets.runtime.json
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\WebApplication1\bin\Debug\net8.0\TestTask.exe
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\WebApplication1\bin\Debug\net8.0\TestTask.deps.json
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\WebApplication1\bin\Debug\net8.0\TestTask.runtimeconfig.json
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\WebApplication1\bin\Debug\net8.0\TestTask.dll
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\WebApplication1\bin\Debug\net8.0\TestTask.pdb
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\WebApplication1\bin\Debug\net8.0\EPPlus.dll
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\WebApplication1\bin\Debug\net8.0\EPPlus.Interfaces.dll
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\WebApplication1\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Features.dll
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\WebApplication1\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\WebApplication1\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\WebApplication1\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\WebApplication1\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\WebApplication1\bin\Debug\net8.0\TestTask.Application.Contracts.dll
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\WebApplication1\bin\Debug\net8.0\TestTask.Application.dll
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\WebApplication1\bin\Debug\net8.0\TestTask.Application.Contracts.pdb
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\WebApplication1\bin\Debug\net8.0\TestTask.Application.pdb
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\WebApplication1\obj\Debug\net8.0\TestTask.csproj.AssemblyReference.cache
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\WebApplication1\obj\Debug\net8.0\TestTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\WebApplication1\obj\Debug\net8.0\TestTask.AssemblyInfoInputs.cache
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\WebApplication1\obj\Debug\net8.0\TestTask.AssemblyInfo.cs
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\WebApplication1\obj\Debug\net8.0\TestTask.csproj.CoreCompileInputs.cache
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\WebApplication1\obj\Debug\net8.0\TestTask.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\WebApplication1\obj\Debug\net8.0\TestTask.RazorAssemblyInfo.cache
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\WebApplication1\obj\Debug\net8.0\TestTask.RazorAssemblyInfo.cs
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\WebApplication1\obj\Debug\net8.0\TestTask.sourcelink.json
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\WebApplication1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.TestTask.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.build.TestTask.props
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TestTask.props
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TestTask.props
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\WebApplication1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\WebApplication1\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\WebApplication1\obj\Debug\net8.0\scopedcss\bundle\TestTask.styles.css
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\WebApplication1\obj\Debug\net8.0\scopedcss\projectbundle\TestTask.bundle.scp.css
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\WebApplication1\obj\Debug\net8.0\TestTask.csproj.Up2Date
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\WebApplication1\obj\Debug\net8.0\TestTask.dll
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\WebApplication1\obj\Debug\net8.0\refint\TestTask.dll
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\WebApplication1\obj\Debug\net8.0\TestTask.pdb
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\WebApplication1\obj\Debug\net8.0\TestTask.genruntimeconfig.cache
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\WebApplication1\obj\Debug\net8.0\ref\TestTask.dll

@@ -1,0 +1,25 @@
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\TestTask.Application.Contracts\bin\Debug\net8.0\TestTask.Application.Contracts.deps.json
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\TestTask.Application.Contracts\bin\Debug\net8.0\TestTask.Application.Contracts.dll
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\TestTask.Application.Contracts\bin\Debug\net8.0\TestTask.Application.Contracts.pdb
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\TestTask.Application.Contracts\obj\Debug\net8.0\TestTask.Application.Contracts.csproj.AssemblyReference.cache
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\TestTask.Application.Contracts\obj\Debug\net8.0\TestTask.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\TestTask.Application.Contracts\obj\Debug\net8.0\TestTask.Application.Contracts.AssemblyInfoInputs.cache
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\TestTask.Application.Contracts\obj\Debug\net8.0\TestTask.Application.Contracts.AssemblyInfo.cs
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\TestTask.Application.Contracts\obj\Debug\net8.0\TestTask.Application.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\TestTask.Application.Contracts\obj\Debug\net8.0\TestTask.Application.Contracts.dll
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\TestTask.Application.Contracts\obj\Debug\net8.0\refint\TestTask.Application.Contracts.dll
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\TestTask.Application.Contracts\obj\Debug\net8.0\TestTask.Application.Contracts.pdb
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\TestTask.Application.Contracts\obj\Debug\net8.0\ref\TestTask.Application.Contracts.dll
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\TestTask.Application.Contracts\bin\Debug\net8.0\TestTask.Application.Contracts.deps.json
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\TestTask.Application.Contracts\bin\Debug\net8.0\TestTask.Application.Contracts.dll
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\TestTask.Application.Contracts\bin\Debug\net8.0\TestTask.Application.Contracts.pdb
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\TestTask.Application.Contracts\obj\Debug\net8.0\TestTask.Application.Contracts.csproj.AssemblyReference.cache
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\TestTask.Application.Contracts\obj\Debug\net8.0\TestTask.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\TestTask.Application.Contracts\obj\Debug\net8.0\TestTask.Application.Contracts.AssemblyInfoInputs.cache
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\TestTask.Application.Contracts\obj\Debug\net8.0\TestTask.Application.Contracts.AssemblyInfo.cs
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\TestTask.Application.Contracts\obj\Debug\net8.0\TestTask.Application.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\TestTask.Application.Contracts\obj\Debug\net8.0\TestTask.Application.Contracts.sourcelink.json
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\TestTask.Application.Contracts\obj\Debug\net8.0\TestTask.Application.Contracts.dll
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\TestTask.Application.Contracts\obj\Debug\net8.0\refint\TestTask.Application.Contracts.dll
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\TestTask.Application.Contracts\obj\Debug\net8.0\TestTask.Application.Contracts.pdb
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\TestTask.Application.Contracts\obj\Debug\net8.0\ref\TestTask.Application.Contracts.dll

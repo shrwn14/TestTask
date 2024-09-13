@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0AgGnK94SmEGhhRmeMBXJTwzhJpVmVgNYjKUaCEPAbbUeO+vZ1SVrXxvFHgY/brdXNKG7f3r1vJSfnluimcv/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sbajador.FLEXISOURCEIT\\Desktop\\TestTask\\TestTask\\TestTask.Application.Contracts\\TestTask.Application.Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sbajador.FLEXISOURCEIT\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\sbajador.FLEXISOURCEIT\\.nuget\\packages\\microsoft.extensions.features\\8.0.8\\microsoft.extensions.features.8.0.8.nupkg.sha512",
+    "C:\\Users\\sbajador.FLEXISOURCEIT\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\sbajador.FLEXISOURCEIT\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

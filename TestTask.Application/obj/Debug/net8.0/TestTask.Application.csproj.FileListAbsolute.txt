@@ -1,0 +1,31 @@
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\TestTask.Application\bin\Debug\net8.0\TestTask.Application.deps.json
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\TestTask.Application\bin\Debug\net8.0\TestTask.Application.dll
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\TestTask.Application\bin\Debug\net8.0\TestTask.Application.pdb
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\TestTask.Application\bin\Debug\net8.0\TestTask.Application.Contracts.dll
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\TestTask.Application\bin\Debug\net8.0\TestTask.Application.Contracts.pdb
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\TestTask.Application\obj\Debug\net8.0\TestTask.Application.csproj.AssemblyReference.cache
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\TestTask.Application\obj\Debug\net8.0\TestTask.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\TestTask.Application\obj\Debug\net8.0\TestTask.Application.AssemblyInfoInputs.cache
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\TestTask.Application\obj\Debug\net8.0\TestTask.Application.AssemblyInfo.cs
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\TestTask.Application\obj\Debug\net8.0\TestTask.Application.csproj.CoreCompileInputs.cache
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\TestTask.Application\obj\Debug\net8.0\TestTask.52EE827F.Up2Date
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\TestTask.Application\obj\Debug\net8.0\TestTask.Application.dll
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\TestTask.Application\obj\Debug\net8.0\refint\TestTask.Application.dll
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\TestTask.Application\obj\Debug\net8.0\TestTask.Application.pdb
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\New folder (2)\TestTask\TestTask.Application\obj\Debug\net8.0\ref\TestTask.Application.dll
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\TestTask.Application\bin\Debug\net8.0\TestTask.Application.deps.json
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\TestTask.Application\bin\Debug\net8.0\TestTask.Application.dll
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\TestTask.Application\bin\Debug\net8.0\TestTask.Application.pdb
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\TestTask.Application\bin\Debug\net8.0\TestTask.Application.Contracts.dll
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\TestTask.Application\bin\Debug\net8.0\TestTask.Application.Contracts.pdb
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\TestTask.Application\obj\Debug\net8.0\TestTask.Application.csproj.AssemblyReference.cache
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\TestTask.Application\obj\Debug\net8.0\TestTask.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\TestTask.Application\obj\Debug\net8.0\TestTask.Application.AssemblyInfoInputs.cache
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\TestTask.Application\obj\Debug\net8.0\TestTask.Application.AssemblyInfo.cs
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\TestTask.Application\obj\Debug\net8.0\TestTask.Application.csproj.CoreCompileInputs.cache
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\TestTask.Application\obj\Debug\net8.0\TestTask.Application.sourcelink.json
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\TestTask.Application\obj\Debug\net8.0\TestTask.52EE827F.Up2Date
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\TestTask.Application\obj\Debug\net8.0\TestTask.Application.dll
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\TestTask.Application\obj\Debug\net8.0\refint\TestTask.Application.dll
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\TestTask.Application\obj\Debug\net8.0\TestTask.Application.pdb
+C:\Users\sbajador.FLEXISOURCEIT\Desktop\TestTask\TestTask\TestTask.Application\obj\Debug\net8.0\ref\TestTask.Application.dll

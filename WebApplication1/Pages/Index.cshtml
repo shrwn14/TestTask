@@ -1,0 +1,209 @@
+﻿@page
+@model TestTask.Pages.IndexModel
+@using System.Data
+@inject Microsoft.Extensions.Configuration.IConfiguration Configuration
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@{
+    var staticFields = Configuration.GetSection("StaticFields").Get<List<string>>();
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-header">
+                    <form id="form-upload" enctype="multipart/form-data" asp-page-handler="FormUpload" method="post" data-ajax="true" data-ajax-method="post" data-ajax-success="onUploadSuccess" data-ajax-failure="onFailure"> 
+                        <input type="file" asp-for="Upload" accept=".xls,.xlsx" />
+                        <button type="submit" class="btn btn-sm btn-primary float-end">Upload</button>
+                    </form>
+                </div>
+                <div class="card-body" style="max-height:400px;overflow-y:auto">
+                        <div class="row mb-1">
+                            <div class="col-sm-6">Row number from<br>which data starts</div>
+                            <div class="col-sm-6">
+                                <select class="form-select form-select-sm row-start">
+                                    <option value="">Select a column</option>
+                                </select>
+                            </div>
+                        </div>
+
+                        @foreach (var staticField in staticFields)
+                        {
+                            <div class="row mb-1">
+                                <div class="col-sm-6">@staticField</div>
+                                <div class="col-sm-6">
+                                    <select data-field="@staticField" class="form-select form-select-sm header-field">
+                                        <option value="">Select a column</option>
+                                    </select>
+                                </div>
+                            </div>
+                        }
+                </div>
+
+                <div class="card-footer">
+                    <button class="btn btn-md btn-primary" id="btn-validate">Validate File</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-6 bg-light" >
+            <div class="card-body" id="div-result" style="min-height:440px;max-height:440px;overflow-y:auto"></div>
+            <div class="card-footer">
+                <button class="btn btn-md btn-primary" id="btn-import">Import</button>
+            </div>
+        </div>
+    </div>
+   
+</div>
+
+
+<script>
+    const btnValidate = document.querySelector('#btn-validate');
+    const btnImport = document.querySelector('#btn-import');
+    const formData = document.querySelector('#form-data');
+    let excelData;
+
+    btnValidate.addEventListener('click', () => {
+        if (!validateInputs()) {
+            // this alert is for demo purposes only
+            alert('The field is required. Please check and change it!');
+            return;
+        }
+
+        document.querySelector('#div-result').innerHTML = generateSampleOutput();
+    });
+
+    btnImport.addEventListener('click', () => {
+        if (validateInputs()) {
+            jsonOutput();
+        }
+    });
+
+    function validateInputs() { 
+        let rowStart = document.querySelector('.row-start');
+        rowStart.classList.remove('is-empty');
+        if (!rowStart.value) {
+            rowStart.classList.add('is-empty');
+        }
+
+        for (let select of document.querySelectorAll('.header-field')) {
+            select.classList.remove('is-empty');
+            if (!select.value) {
+                select.classList.add('is-empty')
+            }
+        }
+
+        let empty = document.querySelectorAll('.is-empty');
+
+        if (empty.length) {
+            empty[0].scrollIntoView({ behavior: 'smooth', block: 'center' });
+            empty[0].focus();
+            return false;
+        }
+
+        return true;
+    }
+
+    function generateSampleOutput() {
+        let rowStart = +document.querySelector('.row-start').value - 1;
+        const data = excelData.Data[rowStart];
+
+        let output = `<strong><label>File validation successfull!</label><br><label>Valid Rows ${excelData.DataCount} / ${excelData.DataCount}</label></strong><br><br>`;
+        for (let select of document.querySelectorAll('.header-field')) {
+            const field = select.getAttribute('data-field');
+            const value = data[select.value];
+
+            output += `<div class="row mb-1">
+                            <div class="col-sm-6">${field}</div>
+                            <div class="col-sm-6">
+                                ${value}
+                            </div>
+                       </div>`;
+        }
+
+        return output;
+    }
+
+    function jsonOutput() {
+
+        let rowStart = +document.querySelector('.row-start').value - 1;
+        let output = [];
+        for(let i = rowStart; i < excelData.DataCount; i++) {
+            const data = excelData.Data[i];
+
+            let temp = {};
+            for (let select of document.querySelectorAll('.header-field')) {
+                const field = select.getAttribute('data-field');
+                const value = data[select.value];
+
+                temp[field] = value;
+            }
+
+            output.push(temp);
+        }
+
+        const jsonString = JSON.stringify(output, null, 2);
+        const blob = new Blob([jsonString], { type: 'application/json' });
+        const link = document.createElement('a');
+
+        const url = URL.createObjectURL(blob);
+        link.href = url;
+
+        link.download = 'json_output';
+
+        document.body.appendChild(link); 
+        link.click(); 
+        document.body.removeChild(link); 
+
+        URL.revokeObjectURL(url);
+    }
+    
+    const selects = document.querySelectorAll('select');
+    selects.forEach(select => {
+        select.addEventListener('change', (e) => {
+            e.currentTarget.classList.remove('is-empty');
+
+            if (!e.currentTarget.value) {
+                e.currentTarget.classList.add('is-empty');
+            } 
+        });
+    });
+
+    function onUploadSuccess(res) {
+        excelData = res;
+
+        if (res?.Headers?.length) {
+            let fieldOptionFactory = res.Headers.map((h, i) => { 
+                return (i == 0 ? `<option value=''>Select a column</option>` : '') + `<option value='${h}'>${h}</option>`
+            });
+
+            let selects = document.querySelectorAll('.header-field');
+            selects.forEach(sel => { 
+                sel.innerHTML = fieldOptionFactory;
+                sel.value = sel.getAttribute('data-field');
+            });
+        }
+
+        if (res?.DataCount) {
+            let rowStartOptionFactory = `<option value=''>Select a column</option>`;
+
+            for (let i = 1; i <= res.DataCount; i++) { 
+                rowStartOptionFactory += `<option value='${i}'>${i}</option>`;
+            }
+            document.querySelector('.row-start').innerHTML = rowStartOptionFactory;
+        }
+
+        validateInputs();
+       
+    }
+
+    function onFailure(error) {
+
+        // for demo purposes only
+        console.log(error);
+
+        alert(`There's an error while trying to process your request!`);
+    }
+</script>
+
